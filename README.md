@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# Data Visualization of World Population
 
 **Visualizing Distribution with Bar Chart or Histogram**
 
